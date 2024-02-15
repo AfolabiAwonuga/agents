@@ -1,1 +1,9 @@
 Pip*
+.env
+autogen_config.json
+__pycache__
+.cache
+coding
+src.py
+autogenn.py
+crew.py
